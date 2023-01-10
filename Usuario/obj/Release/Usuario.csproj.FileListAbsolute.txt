@@ -1,0 +1,6 @@
+C:\Users\infra\Desktop\Gerador\AppCadastrar\Usuario\bin\Release\Usuario.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\Usuario\bin\Release\Usuario.pdb
+C:\Users\infra\Desktop\Gerador\AppCadastrar\Usuario\obj\Release\Usuario.csproj.AssemblyReference.cache
+C:\Users\infra\Desktop\Gerador\AppCadastrar\Usuario\obj\Release\Usuario.csproj.CoreCompileInputs.cache
+C:\Users\infra\Desktop\Gerador\AppCadastrar\Usuario\obj\Release\Usuario.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\Usuario\obj\Release\Usuario.pdb

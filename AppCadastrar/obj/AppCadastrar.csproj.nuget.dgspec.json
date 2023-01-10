@@ -1,0 +1,189 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\infra\\Desktop\\CRUDMobile\\AppCadastrar\\AppCadastrar.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\infra\\Desktop\\CRUDMobile\\AppCadastrar\\AppCadastrar.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\infra\\Desktop\\CRUDMobile\\AppCadastrar\\AppCadastrar.csproj",
+        "projectName": "AppCadastrar",
+        "projectPath": "C:\\Users\\infra\\Desktop\\CRUDMobile\\AppCadastrar\\AppCadastrar.csproj",
+        "packagesPath": "C:\\Users\\infra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\infra\\Desktop\\CRUDMobile\\AppCadastrar\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\infra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid12.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid12.0": {
+            "projectReferences": {
+              "C:\\Users\\infra\\Desktop\\CRUDMobile\\controladorLogin\\ControladorLogin.csproj": {
+                "projectPath": "C:\\Users\\infra\\Desktop\\CRUDMobile\\controladorLogin\\ControladorLogin.csproj"
+              },
+              "C:\\Users\\infra\\Desktop\\CRUDMobile\\Controlador\\Controlador.csproj": {
+                "projectPath": "C:\\Users\\infra\\Desktop\\CRUDMobile\\Controlador\\Controlador.csproj"
+              },
+              "C:\\Users\\infra\\Desktop\\CRUDMobile\\Funcionario\\Funcionario.csproj": {
+                "projectPath": "C:\\Users\\infra\\Desktop\\CRUDMobile\\Funcionario\\Funcionario.csproj"
+              },
+              "C:\\Users\\infra\\Desktop\\CRUDMobile\\UsuarioDAO\\UsuarioDAO.csproj": {
+                "projectPath": "C:\\Users\\infra\\Desktop\\CRUDMobile\\UsuarioDAO\\UsuarioDAO.csproj"
+              },
+              "C:\\Users\\infra\\Desktop\\CRUDMobile\\Usuario\\Usuario.csproj": {
+                "projectPath": "C:\\Users\\infra\\Desktop\\CRUDMobile\\Usuario\\Usuario.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid12.0": {
+          "dependencies": {
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.2.0.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Users\\infra\\Desktop\\CRUDMobile\\controladorLogin\\ControladorLogin.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\infra\\Desktop\\CRUDMobile\\controladorLogin\\ControladorLogin.csproj",
+        "projectName": "ControladorLogin",
+        "projectPath": "C:\\Users\\infra\\Desktop\\CRUDMobile\\controladorLogin\\ControladorLogin.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\infra\\Desktop\\CRUDMobile\\UsuarioDAO\\UsuarioDAO.csproj": {
+                "projectPath": "C:\\Users\\infra\\Desktop\\CRUDMobile\\UsuarioDAO\\UsuarioDAO.csproj"
+              },
+              "C:\\Users\\infra\\Desktop\\CRUDMobile\\Usuario\\Usuario.csproj": {
+                "projectPath": "C:\\Users\\infra\\Desktop\\CRUDMobile\\Usuario\\Usuario.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\infra\\Desktop\\CRUDMobile\\Controlador\\Controlador.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\infra\\Desktop\\CRUDMobile\\Controlador\\Controlador.csproj",
+        "projectName": "Controlador",
+        "projectPath": "C:\\Users\\infra\\Desktop\\CRUDMobile\\Controlador\\Controlador.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\infra\\Desktop\\CRUDMobile\\FuncionarioDAO\\FuncionarioDAO.csproj": {
+                "projectPath": "C:\\Users\\infra\\Desktop\\CRUDMobile\\FuncionarioDAO\\FuncionarioDAO.csproj"
+              },
+              "C:\\Users\\infra\\Desktop\\CRUDMobile\\Funcionario\\Funcionario.csproj": {
+                "projectPath": "C:\\Users\\infra\\Desktop\\CRUDMobile\\Funcionario\\Funcionario.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\infra\\Desktop\\CRUDMobile\\FuncionarioDAO\\FuncionarioDAO.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\infra\\Desktop\\CRUDMobile\\FuncionarioDAO\\FuncionarioDAO.csproj",
+        "projectName": "FuncionarioDAO",
+        "projectPath": "C:\\Users\\infra\\Desktop\\CRUDMobile\\FuncionarioDAO\\FuncionarioDAO.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\infra\\Desktop\\CRUDMobile\\Funcionario\\Funcionario.csproj": {
+                "projectPath": "C:\\Users\\infra\\Desktop\\CRUDMobile\\Funcionario\\Funcionario.csproj"
+              },
+              "C:\\Users\\infra\\Desktop\\CRUDMobile\\UsuarioDAO\\UsuarioDAO.csproj": {
+                "projectPath": "C:\\Users\\infra\\Desktop\\CRUDMobile\\UsuarioDAO\\UsuarioDAO.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\infra\\Desktop\\CRUDMobile\\Funcionario\\Funcionario.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\infra\\Desktop\\CRUDMobile\\Funcionario\\Funcionario.csproj",
+        "projectName": "Funcionario",
+        "projectPath": "C:\\Users\\infra\\Desktop\\CRUDMobile\\Funcionario\\Funcionario.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\infra\\Desktop\\CRUDMobile\\UsuarioDAO\\UsuarioDAO.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\infra\\Desktop\\CRUDMobile\\UsuarioDAO\\UsuarioDAO.csproj",
+        "projectName": "UsuarioDAO",
+        "projectPath": "C:\\Users\\infra\\Desktop\\CRUDMobile\\UsuarioDAO\\UsuarioDAO.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\infra\\Desktop\\CRUDMobile\\Usuario\\Usuario.csproj": {
+                "projectPath": "C:\\Users\\infra\\Desktop\\CRUDMobile\\Usuario\\Usuario.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\infra\\Desktop\\CRUDMobile\\Usuario\\Usuario.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\infra\\Desktop\\CRUDMobile\\Usuario\\Usuario.csproj",
+        "projectName": "Usuario",
+        "projectPath": "C:\\Users\\infra\\Desktop\\CRUDMobile\\Usuario\\Usuario.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}

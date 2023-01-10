@@ -1,0 +1,18 @@
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\Funcionario\bin\Debug\Funcionario.dll
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\Funcionario\bin\Debug\Funcionario.pdb
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\Funcionario\obj\Debug\Funcionario.csproj.AssemblyReference.cache
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\Funcionario\obj\Debug\Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\Funcionario\obj\Debug\Funcionario.dll
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\Funcionario\obj\Debug\Funcionario.pdb
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\Funcionario\bin\Debug\Funcionario.dll
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\Funcionario\bin\Debug\Funcionario.pdb
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\Funcionario\obj\Debug\Funcionario.csproj.AssemblyReference.cache
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\Funcionario\obj\Debug\Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\Funcionario\obj\Debug\Funcionario.dll
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\Funcionario\obj\Debug\Funcionario.pdb
+C:\Users\infra\Desktop\Gerador\AppCadastrar\Funcionario\bin\Debug\Funcionario.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\Funcionario\bin\Debug\Funcionario.pdb
+C:\Users\infra\Desktop\Gerador\AppCadastrar\Funcionario\obj\Debug\Funcionario.csproj.AssemblyReference.cache
+C:\Users\infra\Desktop\Gerador\AppCadastrar\Funcionario\obj\Debug\Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\infra\Desktop\Gerador\AppCadastrar\Funcionario\obj\Debug\Funcionario.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\Funcionario\obj\Debug\Funcionario.pdb

@@ -1,0 +1,142 @@
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\obj\Debug\FuncionarioDAO.csproj.AssemblyReference.cache
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\obj\Debug\FuncionarioDAO.csproj.CoreCompileInputs.cache
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\FuncionarioDAO.dll.config
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\FuncionarioDAO.dll
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\FuncionarioDAO.pdb
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\EntityFramework.dll
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\Funcionario.dll
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Data.SQLite.dll
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\Funcionario.pdb
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\EntityFramework.xml
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Data.SQLite.xml
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\obj\Debug\FuncionarioDAO.csproj.CopyComplete
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\obj\Debug\FuncionarioDAO.dll
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\obj\Debug\FuncionarioDAO.pdb
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\Google.Protobuf.dll
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\MySql.Data.dll
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Buffers.dll
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Memory.dll
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\ZstdNet.dll
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\Google.Protobuf.pdb
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\Google.Protobuf.xml
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\MySql.Data.xml
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Buffers.xml
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Memory.xml
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\infra\Desktop\Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\FuncionarioDAO.dll.config
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\FuncionarioDAO.dll
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\FuncionarioDAO.pdb
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\EntityFramework.dll
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\Funcionario.dll
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\Google.Protobuf.dll
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\MySql.Data.dll
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Buffers.dll
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Data.SQLite.dll
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Memory.dll
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\ZstdNet.dll
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\Funcionario.pdb
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\EntityFramework.xml
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\Google.Protobuf.pdb
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\Google.Protobuf.xml
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\MySql.Data.xml
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Buffers.xml
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Data.SQLite.xml
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Memory.xml
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\obj\Debug\FuncionarioDAO.csproj.AssemblyReference.cache
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\obj\Debug\FuncionarioDAO.csproj.CoreCompileInputs.cache
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\obj\Debug\FuncionarioDAO.csproj.CopyComplete
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\obj\Debug\FuncionarioDAO.dll
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\obj\Debug\FuncionarioDAO.pdb
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\MySqlConnector.dll
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\MySqlConnector.xml
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\UsuarioDAO.dll
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\Usuario.dll
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\UsuarioDAO.pdb
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\UsuarioDAO.dll.config
+C:\Users\infra\Desktop\Software - Gerador\GeradorDeDeclaracao\FuncionarioDAO\bin\Debug\Usuario.pdb
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\obj\Debug\FuncionarioDAO.csproj.AssemblyReference.cache
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\obj\Debug\FuncionarioDAO.csproj.CoreCompileInputs.cache
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\obj\Debug\FuncionarioDAO.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\obj\Debug\FuncionarioDAO.pdb
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\FuncionarioDAO.dll.config
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\FuncionarioDAO.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\FuncionarioDAO.pdb
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\EntityFramework.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\Funcionario.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\Google.Protobuf.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\MySql.Data.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\MySqlConnector.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\System.Buffers.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\System.Data.SQLite.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\System.Memory.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\ZstdNet.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\Funcionario.pdb
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\EntityFramework.xml
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\Google.Protobuf.pdb
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\Google.Protobuf.xml
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\MySql.Data.xml
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\MySqlConnector.xml
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\System.Buffers.xml
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\System.Data.SQLite.xml
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\System.Memory.xml
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\obj\Debug\FuncionarioDAO.csproj.CopyComplete
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\UsuarioDAO.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\Usuario.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\UsuarioDAO.pdb
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\UsuarioDAO.dll.config
+C:\Users\infra\Desktop\Gerador\AppCadastrar\FuncionarioDAO\bin\Debug\Usuario.pdb

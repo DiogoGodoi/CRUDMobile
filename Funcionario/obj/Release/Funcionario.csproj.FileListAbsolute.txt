@@ -1,0 +1,6 @@
+C:\Users\infra\Desktop\Gerador\AppCadastrar\Funcionario\bin\Release\Funcionario.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\Funcionario\bin\Release\Funcionario.pdb
+C:\Users\infra\Desktop\Gerador\AppCadastrar\Funcionario\obj\Release\Funcionario.csproj.AssemblyReference.cache
+C:\Users\infra\Desktop\Gerador\AppCadastrar\Funcionario\obj\Release\Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\infra\Desktop\Gerador\AppCadastrar\Funcionario\obj\Release\Funcionario.dll
+C:\Users\infra\Desktop\Gerador\AppCadastrar\Funcionario\obj\Release\Funcionario.pdb

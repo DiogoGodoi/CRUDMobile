@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:designer="http://xamarin.com/mono/android/designer"
+    android:orientation="vertical"
+    android:minHeight="25dp"
+    android:minWidth="25dp"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:contentDescription=""
+        android:src="@drawable/registro"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="200px"
+        android:id="@+id/logoCadastro" 
+        />
+    <TextView
+        android:textSize="50px"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lbltitulo"
+        android:text="@string/titulo"
+        android:textStyle="bold"
+        android:typeface="sans"
+        android:textColor="#ffd50000" />
+    <LinearLayout
+        android:orientation="vertical"
+        android:minWidth="370dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/tableLayout2">
+        <TextView
+            android:textSize="40px"
+            android:layout_marginTop="50px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lblCracha"
+            android:text="@string/lblCracha"
+            android:textStyle="bold"
+            android:textColor="#ff1a237e" />
+        <EditText
+            android:inputType="number"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/editCracha"
+            android:hint="@string/preenchimentoCracha"
+						/>
+        <TextView
+            android:textSize="40px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lblNome"
+            android:text="@string/lblNome"
+            android:textStyle="bold"
+            android:textColor="#ff1a237e" />
+        <EditText
+            android:inputType="text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/editNome"
+            android:hint="@string/preenchimentoNome"/>
+        <TextView
+            android:textSize="40px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lblSetor"
+            android:text="@string/lblSetor"
+            android:textStyle="bold"
+            android:textColor="#ff1a237e" />
+        <EditText
+            android:inputType="text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/editSetor"
+            android:hint="@string/preenchimentoSetor"/>
+        <TextView
+            android:textSize="40px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lblCargo"
+            android:text="@string/lblCargo"
+            android:textStyle="bold"
+            android:textColor="#ff1a237e" />
+        <EditText
+            android:inputType="text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/editCargo"
+            android:hint="@string/preenchimentoCargo"/>
+        <Button
+            android:layout_marginTop="80px"
+            android:layout_gravity="center"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="@string/btnCadastrar"
+            android:textColor="@color/white"
+            android:background="@color/blue"
+            android:id="@+id/btnCadastrar"/>
+    </LinearLayout>
+</LinearLayout>
